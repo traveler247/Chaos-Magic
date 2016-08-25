@@ -1,0 +1,49 @@
+01 non-basic land walk
+02 deathtouch
+03 Double strike
+04 Lifelink
+05 Flying
+06 "When this creature deals damage to an opponent, that player loses the game"
+07 Banding
+08 Trample
+09 Vigilance
+10 Flanking
+11 First strike
+12 Bushido 2
+13 Soulbond for a random ability from this list other than soulbond, evolve, level up, and suspend. You'll have to tell it to roll the extra ability.
+14 Threshold +3/+3
+15 Protection from squirrels
+16 Protection from any creature type of your choice
+17 Protection from any color of your choice
+18 Defender
+19 Hexproof
+20 Shroud
+21 Indestructible
+22 Reach
+23 Absorb 2
+24 Annihilator 2
+25 Battle Cry
+26 Changeling
+27 Cumulative Upkeep say "Toy Boat"
+28 Evolve, and "When a +1/+1 counter is put on this creature, it gains a random ability from the ability list"
+29 Exalted
+30 Frenzy 3
+31 Horsemanship
+32 Unblockable
+33 Level up 2. Level 1-3: This creature has "Tap: a random creature gets a random ability from this list." Level 4-6: This creature has "Tap: Target creature gets a random ability from this list." Level 7-8: This creature has "Tap: up to 3 target creatures get a random ability from this list." Level 9: This creature becomes a 1/1 green squirrel instead of any other colors or types, and gains "tap: Roll from any list. If it's from the ability list, you choose what creature gains that ability."
+34 "tap: target creature becomes a squirrel in addition to it's other types."
+35 Haste
+36 "Sacrifice this creature: counter target roll"
+37 "Sacrifice this creature: copy target roll"
+38 Infect
+39 Persist
+40 Phasing
+41 Poisonous 2
+42 Provoke
+43 Rampage 3
+44 Shadow
+45 Suspend. Exile this creature with 2 time counters on it.
+46 Undying
+47 Wither
+48 Fear
+49 Pants Walk (Any player wearing pants when you enter combat can't block this creature for the rest of combat. Pants must be removed before you enter your combat phase.)
